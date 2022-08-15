@@ -1,0 +1,8 @@
+/*importações*/
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+/*configuração e reset da pagina*/
+:root{
+  font-size:62.5%;
+--paragraf:'DM Sans', sans-serif;
+}
+/**/
