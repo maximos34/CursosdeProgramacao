@@ -1,1 +1,0 @@
-const B = Number(prompt('digita')); ls
