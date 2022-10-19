@@ -6,7 +6,7 @@
   *Nas sentenças de codigo a ordem dos passos de uma logica de programação importa ao ser criada ( as vezes n altera ou n muda muita coisa mais vai ter codigos que irá mudar muita coisa ao ser escrita de ordem errada ).*
 
   *os comentarios criados dentro do javaScript é utilizado o comando dentro do programa*
-   ~~~javascript 
-   /* */ 
-   ~~~~
+  
+/* */ 
+  
    
