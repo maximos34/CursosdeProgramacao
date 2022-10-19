@@ -22,7 +22,7 @@ foo = true ; //foo é um boolean agora
 A ultima versão **ECMAScript** define sete tipos de dados: 
 
 * sete tipos de dados são primitivos :        
-  * [boolean] ()
+  * [boolean](https://github.com/maximos34/CursosdeProgramacao/blob/main/Udemy/cod3r/algoritimosComJs/materias/DataTypes/TypeBoolean.md)
   * null
   * undefined
   * number
