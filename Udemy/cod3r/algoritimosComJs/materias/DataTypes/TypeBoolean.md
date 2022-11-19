@@ -1,4 +1,4 @@
-# Tipo de dado booleano     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png" alt="drawing" width="40" height="50"/> </font>
+# Tipo de dado booleano     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png" alt="drawing" width="40" height="50"/> 
 ___
 
 ## Booleano
